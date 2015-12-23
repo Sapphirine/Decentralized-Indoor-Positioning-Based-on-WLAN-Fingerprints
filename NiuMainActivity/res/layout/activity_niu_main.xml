@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textAppearance="?android:textAppearanceLarge" android:id="@id/mtv1" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Data Collection Page" />
+    <Button android:id="@id/mbt1" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Collect data" />
+  <Button android:id="@id/mbt2" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Test" />
+  <Button android:id="@id/mbt3" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Data management" />
+    <Button android:id="@id/mbt4" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Exit" />
+</LinearLayout>

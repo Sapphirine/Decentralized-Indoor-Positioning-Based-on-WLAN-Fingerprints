@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="mtv1">false</item>
+    <item type="id" name="mbt1">false</item>
+    <item type="id" name="mbt2">false</item>
+    <item type="id" name="mbt3">false</item>
+    <item type="id" name="mbt4">false</item>
+    <item type="id" name="mdtv1">false</item>
+    <item type="id" name="mdxtv">false</item>
+    <item type="id" name="mdxet">false</item>
+    <item type="id" name="mdytv">false</item>
+    <item type="id" name="mdyet">false</item>
+    <item type="id" name="findbt">false</item>
+    <item type="id" name="deletebt">false</item>
+    <item type="id" name="savebt">false</item>
+    <item type="id" name="filename">false</item>
+    <item type="id" name="back3">false</item>
+    <item type="id" name="mdlv">false</item>
+    <item type="id" name="idtv">false</item>
+    <item type="id" name="x_tv">false</item>
+    <item type="id" name="y_tv">false</item>
+    <item type="id" name="mac_tv">false</item>
+    <item type="id" name="rss_tv">false</item>
+    <item type="id" name="ltv1">false</item>
+    <item type="id" name="xtv1">false</item>
+    <item type="id" name="xet1">false</item>
+    <item type="id" name="xtv2">false</item>
+    <item type="id" name="yet1">false</item>
+    <item type="id" name="grouptv1">false</item>
+    <item type="id" name="groupet1">false</item>
+    <item type="id" name="dataup1">false</item>
+    <item type="id" name="back1">false</item>
+    <item type="id" name="action_settings">false</item>
+</resources>
